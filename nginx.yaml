@@ -25,5 +25,3 @@ spec:
         resources:
           requests:
             memory: 2.5Gi
-      tolerations:
-      - operator: "Exists"
